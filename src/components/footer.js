@@ -1,7 +1,7 @@
 import React from "react";
 import {
   FaInstagram,
-  FaLinkedin,
+  FaGithub,
   FaMailBulk,
   FaWhatsapp,
   FaPhoneAlt,
@@ -52,7 +52,8 @@ function Footer() {
                  <a  target="_blank"
                 rel="noreferrer"
                 href="https://wa.me/+919130921658"  > 
-              <FaWhatsapp className="text-white " /></a>
+              <FaWhatsapp className="text-white " />
+                  </a>
             </div>
             <div className="h-1 border-2 border-dotted border-white "></div>
 

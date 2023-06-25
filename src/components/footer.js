@@ -3,7 +3,7 @@ import {
   FaInstagram,
   FaLinkedin,
   FaMailBulk,
-  FaGithub,
+  FaWhatsapp,
   FaPhoneAlt,
 } from "react-icons/fa";
 
@@ -49,8 +49,10 @@ function Footer() {
               >
                 <FaMailBulk className="text-white " />
               </a>
-
-              <FaLinkedin className="text-white " />
+                 <a  target="_blank"
+                rel="noreferrer"
+                href="https://wa.me/+919130921658"  > 
+              <FaWhatsapp className="text-white " /></a>
             </div>
             <div className="h-1 border-2 border-dotted border-white "></div>
 

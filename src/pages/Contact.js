@@ -16,34 +16,34 @@ const Contact = () => {
           <div className="h-screen flex  items-center flex-col text-5xl md:text-3xl ">
             <div className="fixed z-20 flex mt-28 border-2 px-1 py-2 rounded-md border-black hover:bg-gray-600 hover:opacity-80 shadow-2xl md:px-0 md:py-1 ">
               <a href="tel:+919130921658">
-                <FaPhoneAlt className="mx-8 p-1 border-2 border-black rounded-md hover:bg-black hover:text-white " />
+                <FaPhoneAlt className="mx-10 p-1 border-2 border-black rounded-md hover:bg-black hover:text-white md:mx-5 " />
               </a>
               <a
                 target="_blank"
                 rel="noreferrer"
                 href="https://github.com/TomatoTwister"
               >
-                <FaGithub className="mx-8 p-1 border-2 border-black rounded-md hover:bg-black hover:text-white" />
+                <FaGithub className="mx-10 p-1 border-2 border-black rounded-md hover:bg-black hover:text-white md:mx-5" />
               </a>
               <a
                 target="_blank"
                 rel="noreferrer"
                 href="https://www.instagram.com/hemant_v_j/"
               >
-                <FaInstagram className="mx-8 p-1 border-2 border-black rounded-md hover:bg-black hover:text-white " />
+                <FaInstagram className="mx-10 p-1 border-2 border-black rounded-md hover:bg-black hover:text-white md:mx-5 " />
               </a>
               <a
                 target="_blank"
                 rel="noreferrer"
                 href="mailto:2022.hemant.jatal@ves.ac.in"
               >
-                <FaMailBulk className="mx-8 p-1 border-2 border-black rounded-md hover:bg-black hover:text-white" />
+                <FaMailBulk className="mx-10 p-1 border-2 border-black rounded-md hover:bg-black hover:text-white md:mx-5" />
               </a>
 
             <a  target="_blank"
                 rel="noreferrer"
                 href="https://wa.me/+919420114728" >
-                  <FaWhatsapp className="mx-8 p-1 border-2 border-black rounded-md hover:bg-black hover:text-white" /> 
+                  <FaWhatsapp className="mx-10 p-1 border-2 border-black rounded-md hover:bg-black hover:text-white md:mx-5" /> 
                   </a>
             </div>
             <div className="mt-20 h-screen ">

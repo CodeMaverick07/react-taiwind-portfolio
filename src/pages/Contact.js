@@ -16,7 +16,7 @@ const Contact = () => {
           <div className="h-screen flex  items-center flex-col text-5xl md:text-3xl ">
             <div className="fixed z-20 flex mt-28 border-2 px-1 py-2 rounded-md border-black hover:bg-gray-600 hover:opacity-80 shadow-2xl md:px-0 md:py-1 ">
               <a href="tel:+919130921658">
-                <FaPhoneAlt className="mx-10 p-1 border-2 border-black rounded-md hover:bg-black hover:text-white md:mx-5 " />
+                <FaPhoneAlt className="mx-10 p-1 border-2 border-black rounded-md hover:bg-black hover:text-white md:mx-4 " />
               </a>
               <a
                 target="_blank"
@@ -43,7 +43,7 @@ const Contact = () => {
             <a  target="_blank"
                 rel="noreferrer"
                 href="https://wa.me/+919420114728" >
-                  <FaWhatsapp className="mx-10 p-1 border-2 border-black rounded-md hover:bg-black hover:text-white md:mx-5" /> 
+                  <FaWhatsapp className="mx-10 p-1 border-2 border-black rounded-md hover:bg-black hover:text-white md:mx-4" /> 
                   </a>
             </div>
             <div className="mt-20 h-screen ">

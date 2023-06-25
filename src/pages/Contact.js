@@ -2,9 +2,9 @@ import React from "react";
 import Layout from "../components/Layout";
 import {
   FaInstagram,
-  FaLinkedin,
+  FaWhatsapp,
   FaMailBulk,
-  FaGithub,
+  Fagithub,
   FaPhoneAlt,
 } from "react-icons/fa";
 
@@ -40,7 +40,11 @@ const Contact = () => {
                 <FaMailBulk className="mx-5 p-1 border-2 border-black rounded-md hover:bg-black hover:text-white" />
               </a>
 
-              <FaLinkedin className="mx-5 p-1 border-2 border-black rounded-md hover:bg-black hover:text-white" />
+            <a  target="_blank"
+                rel="noreferrer"
+                href="https://wa.me/+919420114728" >
+                  <FaWhatsapp className="mx-5 p-1 border-2 border-black rounded-md hover:bg-black hover:text-white" /> 
+                  </a>
             </div>
             <div className="mt-20 h-screen ">
               <lottie-player

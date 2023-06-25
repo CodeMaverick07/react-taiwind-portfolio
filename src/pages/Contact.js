@@ -14,7 +14,7 @@ const Contact = () => {
       <div className="overflow-hidden">
         <div className="h-screen  ">
           <div className="h-screen flex  items-center flex-col text-5xl md:text-3xl ">
-            <div className="fixed z-20 flex mt-28 border-2 px-1 py-2 rounded-md border-black hover:bg-gray-600 hover:opacity-80 shadow-2xl md:px-0 md:py-1 ">
+            <div className="fixed z-20 flex mt-28 border-2 px-1 py-2 rounded-md border-black hover:bg-gray-600 hover:opacity-80 shadow-2xl md:px-0 md:py-1 bg-gray-100 opacity-80 ">
               <a href="tel:+919130921658">
                 <FaPhoneAlt className="mx-10 p-1 border-2 border-black rounded-md hover:bg-black hover:text-white md:mx-4 " />
               </a>

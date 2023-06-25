@@ -4,7 +4,7 @@ import {
   FaInstagram,
   FaWhatsapp,
   FaMailBulk,
-  Fagithub,
+  FaGithub,
   FaPhoneAlt,
 } from "react-icons/fa";
 

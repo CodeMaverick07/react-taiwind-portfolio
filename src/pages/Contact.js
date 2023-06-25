@@ -42,7 +42,7 @@ const Contact = () => {
 
             <a  target="_blank"
                 rel="noreferrer"
-                href="https://wa.me/+919420114728" >
+                href="https://wa.me/+919130921658" >
                   <FaWhatsapp className="mx-10 p-1 border-2 border-black rounded-md hover:bg-black hover:text-white md:mx-4" /> 
                   </a>
             </div>
